@@ -1,7 +1,7 @@
 {
-  "name": "Outline",
+  "name": "Outlined: Keyboard shortcut outline content",
   "version": "1.0",
-  "description": "Opens up outline link of current url when Ctrl+E is pressed",
+  "description": "Opens up an outline link of current url when Ctrl+Shift+E (Command+Shift+E on Mac) is pressed",
   "permissions": ["tabs"],
   "background": {
     "persistent": false,
@@ -13,5 +13,6 @@
       "description": "Open Outline link"
     }
   },
-  "manifest_version": 2
+  "manifest_version": 2,
+  "icons": { "16": "icon16.png", "48": "icon48.png", "128": "icon128.png" }
 }
