@@ -1,0 +1,17 @@
+{
+  "name": "Outline",
+  "version": "1.0",
+  "description": "Opens up outline link of current url when Ctrl+E is pressed",
+  "permissions": ["tabs"],
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  },
+  "commands": {
+    "outline-link": {
+      "suggested_key": { "default": "Ctrl+Shift+E" },
+      "description": "Open Outline link"
+    }
+  },
+  "manifest_version": 2
+}
