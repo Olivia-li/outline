@@ -1,5 +1,5 @@
 {
-  "name": "Outlined: Keyboard shortcut outline content",
+  "name": "Outlined: Quickly outline content",
   "version": "1.0",
   "description": "Opens up an outline link of current url when Ctrl+Shift+E (Command+Shift+E on Mac) is pressed",
   "permissions": ["tabs"],
