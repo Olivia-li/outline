@@ -1,6 +1,6 @@
 {
   "name": "Outlined: Quickly outline content",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Opens up an outline link of current url when Ctrl+Shift+E (Command+Shift+E on Mac) is pressed",
   "permissions": ["tabs"],
   "background": {
